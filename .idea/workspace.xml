@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/SmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/kohnlehome/SmallestDifferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
+  <component name="RunManager" selected="JUnit.SmallestDifferenceTest">
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="smallestdifference" />
       <extension name="coverage">
@@ -71,8 +72,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallestDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallestdifference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.kohnlehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.kohnlehome" />
+      <option name="MAIN_CLASS_NAME" value="de.kohnlehome.SmallestDifferenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestDifferenceTest.smallestDifferenceTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smallestdifference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.kohnlehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.kohnlehome" />
+      <option name="MAIN_CLASS_NAME" value="de.kohnlehome.SmallestDifferenceTest" />
+      <option name="METHOD_NAME" value="smallestDifferenceTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmallestDifferenceTest" />
+        <item itemvalue="JUnit.SmallestDifferenceTest.smallestDifferenceTest2" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.test" />
       </list>
@@ -96,12 +130,20 @@
       <option name="project" value="LOCAL" />
       <updated>1587553895138</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add class">
+      <created>1587553984491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587553984491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Interface" />
+    <MESSAGE value="Add class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="191" width="800" height="672" key="#Project_Structure" timestamp="1587552277691">
@@ -113,10 +155,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1254" y="250" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553955580" />
-    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2" timestamp="1587553894797">
+    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2" timestamp="1587553984171">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553894797" />
+    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553984171" />
     <state x="785" y="385" key="Github.ShareDialog" timestamp="1587546024533">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -125,33 +167,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="725" y="240" width="459" height="592" key="Github.UntrackedFilesDialog/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587546040608" />
-    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1587551302280">
+    <state width="1899" height="242" key="GridCell.Tab.0.bottom" timestamp="1587554651997">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408318" />
-    <state width="1899" height="289" key="GridCell.Tab.0.bottom/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587551302280" />
-    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1587551302280">
+    <state width="1899" height="242" key="GridCell.Tab.0.bottom/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587554651997" />
+    <state width="1899" height="242" key="GridCell.Tab.0.center" timestamp="1587554651997">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="289" key="GridCell.Tab.0.center/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587551302280" />
-    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1587551302280">
+    <state width="1899" height="242" key="GridCell.Tab.0.center/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587554651997" />
+    <state width="1899" height="242" key="GridCell.Tab.0.left" timestamp="1587554651997">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="289" key="GridCell.Tab.0.left/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587551302280" />
-    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1587551302280">
+    <state width="1899" height="242" key="GridCell.Tab.0.left/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587554651997" />
+    <state width="1899" height="242" key="GridCell.Tab.0.right" timestamp="1587554651997">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1586" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583863408317" />
-    <state width="1899" height="289" key="GridCell.Tab.0.right/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587551302280" />
+    <state width="1899" height="242" key="GridCell.Tab.0.right/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587554651997" />
     <state x="458" y="145" key="SettingsEditor" timestamp="1587553093662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="458" y="145" key="SettingsEditor/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553093662" />
-    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1587553897988">
+    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1587553985898">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553897988" />
+    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553985898" />
   </component>
 </project>
