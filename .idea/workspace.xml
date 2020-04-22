@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814e4b96-c6a2-4667-9af1-a7412e954ec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/ISmallestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/kohnlehome/SmallestDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,7 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1583863022047</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Interface">
+      <created>1587553895138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587553895138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="191" width="800" height="672" key="#Project_Structure" timestamp="1587552277691">
@@ -98,6 +109,14 @@
     </state>
     <state x="418" y="184" width="800" height="672" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583863107413" />
     <state x="418" y="191" key="#Project_Structure/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587552277691" />
+    <state x="1254" y="250" width="374" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1587553955580">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1254" y="250" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553955580" />
+    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2" timestamp="1587553894797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1044" y="112" width="794" height="851" key="CommitChangelistDialog2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553894797" />
     <state x="785" y="385" key="Github.ShareDialog" timestamp="1587546024533">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -130,5 +149,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="458" y="145" key="SettingsEditor/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553093662" />
+    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1587553897988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1041" y="276" width="800" height="523" key="Vcs.Push.Dialog.v2/1920.13.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587553897988" />
   </component>
 </project>
